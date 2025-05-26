@@ -7,7 +7,7 @@ Welcome to my QA/SQA portfolio. Below you’ll find a collection of test cases, 
 ## 🧪 Test Cases
 
 ### 🔸 Login Functionality – Test Cases
-- [Login Test Cases (Excel)](./test-cases/Login_Test_Cases.xlsx)
+- [Login Test Cases (Excel)]([./test-cases/Login_Test_Cases.xlsx](https://github.com/muhtashimasrar/QA-Portfolio/blob/main/Test%20Case%20Document%20Template.xlsx))
 - Description: Covers positive, negative, boundary value, and field validation test scenarios.
 
 ### 🔸 E-commerce Checkout Flow
